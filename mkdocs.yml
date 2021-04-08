@@ -10,11 +10,12 @@ theme:
   # custom_dir: overrides
   language: ja
   favicon: assets/img/favicon.ico
+  # favicon: https://twitter.com/soraie_/photo
   features:
     - navigation.tabs
   palette:
-    accent: green
-    primary: deep orange
+    accent: cyan
+    primary: teal
 
 extra:
   social:

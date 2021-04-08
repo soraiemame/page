@@ -1,17 +1,24 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## about
 
-## Commands
+これはsoraieの作ったホームページです。ホームページを作る練習をしています。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## introduction
 
-## Project layout
+soraieと言います。githubのアカウント名は[soraiemame](https://github.com/soraiemame)です。
+[AtCoder](https://atcoder.jp/users/soraie),[Twitter](https://twitter.com/soraie_) などをしています。
+'21JOI本戦に参加していたりします。
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## sitemap
+
+### library
+
+競技プログラミングで使うライブラリ
+
+- C++
+    - [github](https://github.com/soraiemame/library-cpp)
+    - [docs](https://soraiemame.github.io/library-cpp/)
+
+他の言語ももしかしたら作るかもしれません
+
